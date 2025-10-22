@@ -23,25 +23,35 @@ Este projeto é ideal para fins **educacionais**, demonstrando o uso de estrutur
 ## 🧩 Estrutura do Código
 vinheria_agnello.py
 │
+
 ├── vinhos_tintos (dict)
+
 ├── vinhos_brancos (dict)
+
 ├── vinhos_roses (dict)
+
 ├── carrinho (list)
+
 │
+
 ├── exibir_vinhos() # Mostra os produtos disponíveis
+
 ├── adicionar_ao_carrinho() # Adiciona produtos ao carrinho
+
 ├── visualizar_carrinho() # Mostra o conteúdo do carrinho
+
 ├── calcular_desconto() # Calcula o desconto aplicável
+
 ├── informacoes_usario() # Coleta dados pessoais
+
 ├── finalizar_compra() # Realiza o processo de compra
+
 ├── mensagem_inicial() # Mensagem de boas-vindas
+
 ├── mensagem_final() # Mensagem de encerramento
+
 └── Loop principal de navegação # Menu interativo
 
-yaml
-Copiar código
-
----
 
 ## ⚙️ Como Executar
 
@@ -55,14 +65,11 @@ Copiar código
    git clone https://github.com/seuusuario/vinheria-agnello.git
 Acesse a pasta do projeto:
 
-bash
-Copiar código
+
 cd vinheria-agnello
 Execute o script principal:
 
-bash
-Copiar código
-python vinheria_agnello.py
+
 💡 Exemplo de Uso
 markdown
 Copiar código
